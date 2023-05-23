@@ -1,0 +1,30 @@
+[
+ {
+    "_id" : "spotify_sg_Id_song1",
+    "name" : "songName",
+    "music" : "songeFile_Path",
+    "images" : {
+        "gif" : "url",
+        "banner" : "url",
+        "thumbnail" : "url" 
+    },
+    "lyrics" : "<p dir=\"auto\">I do the same thing, I told you that I never would</p> <p dir=\"auto\">I told you I changed, even when I knew I never could</p><p dir=\"auto\">I know that I can&apos;t find nobody else as good as you</p><p dir=\"auto\">I need you to stay, need you to stay, hey</p><p dir=\"auto\">I get drunk, wake up, I&apos;m wasted still</p><p dir=\"auto\">I realize the time that I wasted here</p><p dir=\"auto\">I feel like you can&apos;t feel the way I feel</p><p dir=\"auto\">I&apos;ll be fucked up if you can&apos;t be right here</p><p dir=\"auto\">Oh-whoa (oh-whoa, whoa)</p><p dir=\"auto\">Oh-whoa (oh-whoa, whoa)</p><p dir=\"auto\">Oh-whoa (oh-whoa, whoa)</p><p dir=\"auto\">I&apos;ll be fucked up if you can&apos;t be right here</p><p dir=\"auto\">I do the same thing, I told you that I never would</p><p dir=\"auto\">I told you I changed, even when I knew I never could</p><p dir=\"auto\">I know that I can&apos;t find nobody else as good as you</p><p dir=\"auto\">I need you to stay, need you to stay, hey</p><p dir=\"auto\">I do the same thing, I told you that I never would</p><p dir=\"auto\">I told you I changed, even when I knew I never could</p><p dir=\"auto\">I know that I can&apos;t find nobody else as good as you</p><p dir=\"auto\">I need you to stay, need you to stay, yeah</p><p dir=\"auto\">When I&apos;m away from you, I miss your touch (ooh-ooh)</p><p dir=\"auto\">You&apos;re the reason I believe in love</p><p dir=\"auto\">It&apos;s been difficult for me to trust (ooh-ooh)</p><p dir=\"auto\">And I&apos;m afraid that I&apos;ma fuck it up</p><p dir=\"auto\">Ain&apos;t no way that I can leave you stranded</p><p dir=\"auto\">&apos;Cause you ain&apos;t never left me empty-handed</p><p dir=\"auto\">And you know that I know that I can&apos;t live without you</p><p dir=\"auto\">So, baby, stay</p><p dir=\"auto\">Oh-whoa (oh-whoa, whoa)</p><p dir=\"auto\">Oh-whoa (oh-whoa, whoa)</p><p dir=\"auto\">Oh-whoa (oh-whoa, whoa)</p><p dir=\"auto\">I&apos;ll be fucked up if you can&apos;t be right here</p><p dir=\"auto\">I do the same thing, I told you that I never would</p><p dir=\"auto\">I told you I changed, even when I knew I never could</p><p dir=\"auto\">I know that I can&apos;t find nobody else as good as you</p><p dir=\"auto\">I need you to stay, need you to stay, yeah</p><p dir=\"auto\">I do the same thing, I told you that I never would</p><p dir=\"auto\">I told you I changed, even when I knew I never could</p><p dir=\"auto\">I know that I can&apos;t find nobody else as good as you</p><p dir=\"auto\">I need you to stay, need you to stay, hey</p><p dir=\"auto\">♪</p><p dir=\"auto\">Whoa-oh</p><p dir=\"auto\">I need you to stay, need you to stay, hey</p><p dir=\"auto\"><br></p>",
+    "artists" : [
+        "artists_Id",
+        "artists_Id",
+        "artists_Id"
+    ],
+    "gener" : [
+        "gener_name",
+        "gener_name",
+        "gener_name"
+    ],
+    "languae" : [
+        "language",
+        "language",
+        "language"
+    ],
+    "reliaseDate" : "year",
+    "totalListner" : 23334762648724
+ }   
+]
