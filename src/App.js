@@ -5,10 +5,8 @@ import song from './json/song.json'
 
 
 function App() {
-  console.log(song);
   return (
     <div className="App">
-      
     </div>
   );
 }
