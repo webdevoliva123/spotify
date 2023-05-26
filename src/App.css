@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+ .bag{
+  position: absolute;
+  top: 400px;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  backdrop-filter: blur(100px);
+}

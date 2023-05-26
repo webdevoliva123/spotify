@@ -2,11 +2,11 @@
     {
         "_id" : "spotify_ar_Id_artist1",
         "singerData" : {
-            "name" : "SingerFirstName SingerLastName",
+            "name" : "Justin Bieber",
             "isVerified" : true,
             "images" : {
-                "profileImage" : "url",
-                "bannerImage" : "url",
+                "profileImage" : "https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36",
+                "bannerImage" : "https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36",
                 "shortImage" : "url"
             },
             "montlyListner" : 73352160
@@ -42,6 +42,24 @@
                     "linkCode" : "social_wiki"
                 }
             ]
-        }
+        },
+        "singerAlbum" : [
+            {
+                "albumName" : "Name",
+                "albumThumbnail" : "URL",
+                "songs" : [
+                    "Song_Id"
+                ]
+            }
+        ],
+        "singerPlaylist" : [
+            {
+                "playlistName" : "Name",
+                "playlistThumbnail" : "URL",
+                "songs" : [
+                    "Song_Id"
+                ]
+            }
+        ]
     }
 ]
